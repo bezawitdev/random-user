@@ -18,7 +18,7 @@ async function refreshUser(){
    
 }
  console.log(checkData, 'checkdata')
-console.log(currentUser, 'app.js first')
+
 
 useEffect(() => {
   refreshUser()
